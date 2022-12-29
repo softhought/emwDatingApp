@@ -1,0 +1,11 @@
+export const SUCCESS_STATUS = "SUCCESS";
+export const ERROR_STATUS = "ERROR";
+export const SUCCESS_TITLE = "Success";
+export const ERROR_TITLE = "Error";
+export const ADD_MODE = "ADD";
+export const EDIT_MODE = "EDIT";
+export const TIME_FORMAT = "hh:mm A";
+export const DATE_FORMAT_DMY_SLASH = "DD/MM/YYYY";
+export const FORM_NAME_COMPONENT_DETAILS_ADMISSION = "component_details_admission";
+export const SAVE_SUCCESS_MSG = "Data saved successfully"; 
+export const DEFAULT_MASTER_DRAWER_WIDTH = "700px"; 
